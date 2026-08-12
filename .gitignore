@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Gros fichiers de données
+*.csv.gz
+*.tsv.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.soft.gz
+
+# Environnements Python
+venv/
+env/
+.venv/
+
+# Fichiers Windows
+Thumbs.db
