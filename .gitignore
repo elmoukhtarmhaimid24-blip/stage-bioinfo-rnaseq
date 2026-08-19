@@ -21,3 +21,5 @@ env/
 
 # Fichiers Windows
 Thumbs.db
+
+notebooks/count_matrix_filtered.csv
